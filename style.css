@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.main {
+    display: flex;
+    margin: 61px 100px 61px 80px;
+    gap: 60px;
+}
+
+.left {
+    width: 60%;
+}
+
+
+
+.facebook {
+    color: #0866ff;
+    font-family: sans-serif;
+    font-size: 65px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.line {
+    font-family: sans-serif;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.form {
+    border: 1px solid rgb(184, 183, 183);
+    border-radius: 5px;
+    padding: 13px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+.email {
+    margin-bottom: 13px;
+    background-color: white;
+}
+
+.email2 {
+    padding: 15px;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 14px;
+    border-radius: 5px;
+    border: 1px solid rgb(184, 183, 183);
+    background-color: white;
+}
+
+.email2:hover {
+    border-color: #0866ff;
+}
+
+.password2:hover {
+    border-color: #0866ff;
+}
+
+.password {
+    margin-bottom: 13px;
+    background-color: white;
+}
+
+.password2 {
+    padding: 15px;
+    font-size: 14px;
+    text-align: left;
+    font-family: sans-serif;
+    border-radius: 5px;
+    border: 1px solid rgb(184, 183, 183);
+    background-color: white;
+}
+
+.login {
+    margin-bottom: 14px;
+}
+
+.login2 {
+    padding: 15px;
+    font-size: 16px;
+    text-align: left;
+    width: 306px;
+    background-color: #0866ff;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-family: sans-serif;
+    border-radius: 5px;
+    border: none;
+}
+
+.login2:active {
+    background-color: #0a58d7;
+}
+
+.forgotpassword {
+    text-align: center;
+    color: #0866ff;
+    font-size: 12px;
+    font-family: sans-serif;
+    margin-bottom: 11px;
+}
+
+.hor-line {
+    margin-top: 16px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 26px;
+    margin-bottom: 8px;
+}
+
+.btn2 {
+    width: 165px;
+    color: white;
+    background-color: rgb(18, 170, 18);
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+.btn2:active {
+    background-color: rgb(16, 147, 16);
+}
+
+
+
+.line2 {
+    text-align: center;
+    margin-top: 12px;
+}
+
+.l1 {
+    margin-top: 100px;
+    font-size: 12px;
+}
+
+.l2 {
+    font-size: 12px;
+}
